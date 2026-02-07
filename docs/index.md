@@ -102,4 +102,4 @@ SOFTWARE.
 
 ## My Other Projects
 
-<MyProjects :projects="projects" />
+<Projects :projects="projects" />

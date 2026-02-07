@@ -104,4 +104,4 @@ SOFTWARE.
 
 ## 我的其他项目
 
-<MyProjects :projects="projects" />
+<Projects :projects="projects" />

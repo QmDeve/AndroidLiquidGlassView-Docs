@@ -1,9 +1,11 @@
 import DefaultTheme from 'vitepress/theme'
-import MyProjects from './components/MyProjects.vue'
+import Projects from './components/Projects.vue'
+import AdUnit from './components/AdUnit.vue'
 
 export default {
   extends: DefaultTheme,
   enhanceApp({ app }) {
-    app.component('MyProjects', MyProjects)
+    app.component('Projects', Projects)
+    app.component('AdUnit', AdUnit)
   }
 }
