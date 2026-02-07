@@ -10,7 +10,8 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/hero.jpg' }],
     ['meta', { name: 'msvalidate.01', content: '3B3196CCE3689B59560B015D922104EE' }],
-    ['meta', { name: 'google-site-verification', content: '2hFUKgXRhlWwjVnt_m5PN0IA00LaSYJBs0ZK1RjBzQY' }]
+    ['meta', { name: 'google-site-verification', content: '2hFUKgXRhlWwjVnt_m5PN0IA00LaSYJBs0ZK1RjBzQY' }],
+    ['script', { async: 'async', src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1263219814762561', crossorigin: 'anonymous' }]
   ],
   themeConfig: {
     logo: '/hero.jpg',
