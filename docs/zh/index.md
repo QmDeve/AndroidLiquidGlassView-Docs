@@ -54,12 +54,6 @@ const projects = [
     description: 'Android Ui 组件库，提供实时动态高斯模糊效果。它使用原生 C++ 代码进行高效的模糊处理，并提供一套模糊 UI 组件，以增强您的应用设计',
     link: 'https://blurview.qmdeve.com',
     tags: ['Android Lib', 'BlurView', 'Components']
-  },
-  {
-    title: 'Qm Authenticator',
-    description: '一个开源的、安全的、离线的双因素认证（2FA）应用程序，专为 Android 开发。它帮助您为在线账户添加额外的安全层',
-    link: 'https://github.com/Rouneant/Qm-Authenticator-for-Android',
-    tags: ['Android', 'Security', 'Material Design 3']
   }
 ]
 </script>

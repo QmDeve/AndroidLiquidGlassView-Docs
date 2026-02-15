@@ -53,12 +53,6 @@ const projects = [
     description: 'Android UI component library that provides real-time, dynamic Gaussian blur effects. It uses native C++ code for efficient blur processing and provides a set of blur UI components to enhance your application design',
     link: 'https://blurview.qmdeve.com',
     tags: ['Android Lib', 'BlurView', 'Components']
-  },
-  {
-    title: 'Qm Authenticator',
-    description: 'An open-source, secure, offline two-factor authentication (2FA) application developed for Android. It helps you add an extra layer of security to your online account',
-    link: 'https://github.com/Rouneant/Qm-Authenticator-for-Android',
-    tags: ['Android', 'Security', 'Material Design 3']
   }
 ]
 </script>

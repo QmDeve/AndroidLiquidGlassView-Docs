@@ -17,18 +17,18 @@ next:
 
 ## 集成
 
-### 添加依赖项 <Badge type="tip" text="v1.0.0" />
+### 添加依赖项 <Badge type="tip" text="v1.0.2" />
 在模块的 `build.gradle` 文件中添加依赖项：
 ::: code-group
 ```groovy [build.gradle]
 dependencies {
-   implementation 'com.qmdeve.liquidglass:core:1.0.1'
+   implementation 'com.qmdeve.liquidglass:core:1.0.2'
 }
 ```
 
 ```kotlin [build.gradle.kts]
 dependencies {
-   implementation("com.qmdeve.liquidglass:core:1.0.1")
+   implementation("com.qmdeve.liquidglass:core:1.0.2")
 }
 ```
 :::
