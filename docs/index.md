@@ -30,14 +30,14 @@ import { VPTeamMembers } from 'vitepress/theme'
 const members = [
   {
     avatar: 'https://www.github.com/QmDeve.png',
-    name: 'Donny Yale',
+    name: 'Donny Yang',
     title: 'Creator',
     org: 'QmDeve',
     orgLink: 'https://qmdeve.com',
     links: [
       { icon: 'github', link: 'https://github.com/QmDeve' },
       { icon: 'gmail', link: 'mailto:donny@qmdeve.com' },
-      { icon: 'telegram', link: 'https://t.me/donny_yale' },
+      { icon: 'telegram', link: 'https://t.me/donny_yang' },
       { icon: 'twitter', link: 'https://x.com/qmdeve' }
     ]
   },
@@ -73,7 +73,7 @@ const projects = [
 ## License
 
 ```
-Copyright ©️ 2025-2026 Donny Yale
+Copyright ©️ 2025-2026 Donny Yang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
