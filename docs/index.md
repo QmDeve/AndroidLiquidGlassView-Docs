@@ -66,8 +66,8 @@ const projects = [
 ## Discuss
 <a href="https://t.me/QmDeve" target="_blank">
   <img src="https://img.shields.io/badge/Telegram%20Group-@QmDeve-blue?style=for-the-badge&logo=telegram" style="border-radius: 8px;">
-</a><br><a href="https://qm.qq.com/q/NBHRYhce4y" target="_blank">
-  <img src="https://img.shields.io/badge/QQ%20Group-1054049593-blue?style=for-the-badge&logo=qq" style="border-radius: 8px;">
+</a><br><a href="https://qm.qq.com/q/vnofi1hgFc" target="_blank">
+  <img src="https://img.shields.io/badge/QQ%20Group-1046829337-blue?style=for-the-badge&logo=qq" style="border-radius: 8px;">
 </a>
 
 ## License
