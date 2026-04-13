@@ -8,7 +8,7 @@ next:
 # 快速开始
 
 ## 预览
-<img src="https://cloud.qmdeve.com/f/JaIw/img1.png" alt="Image" style="border-radius: 24px;" />
+<img src="https://github.com/QmDeve/AndroidLiquidGlassView/blob/master/image.jpg?raw=true" alt="Image" style="border-radius: 24px;" />
 
 ### 项目要求
 |  Min SDK  | Compile SDK |  Java Version  |

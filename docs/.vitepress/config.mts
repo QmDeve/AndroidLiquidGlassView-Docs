@@ -11,8 +11,6 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/hero.jpg' }],
     ['meta', { name: 'msvalidate.01', content: '3B3196CCE3689B59560B015D922104EE' }],
     ['meta', { name: 'google-site-verification', content: '2hFUKgXRhlWwjVnt_m5PN0IA00LaSYJBs0ZK1RjBzQY' }],
-    ['script', { async: 'async', src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1263219814762561', crossorigin: 'anonymous' }],
-    ['script', {}, `window["addAds"] = function () {(adsbygoogle = window.adsbygoogle || []).push({});}`],
   ],
   themeConfig: {
     logo: '/hero.jpg',
@@ -112,8 +110,7 @@ export default defineConfig({
             items: [
               { text: 'AndroidLiquidGlassView', link: '/zh/quick-start/AndroidLiquidGlassView.md' }
             ]
-          },
-          { text: '广告', link: '/zh/advertising.md' }
+          }
         ]
       }
     }

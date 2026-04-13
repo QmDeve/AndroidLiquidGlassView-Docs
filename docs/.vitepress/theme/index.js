@@ -6,6 +6,5 @@ export default {
   extends: DefaultTheme,
   enhanceApp({ app }) {
     app.component('Projects', Projects)
-    app.component('AdUnit', AdUnit)
   }
 }

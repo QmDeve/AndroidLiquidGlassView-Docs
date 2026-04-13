@@ -62,7 +62,7 @@ const projects = [
 
 ## Star History
 
-[![Star History](https://starchart.qmdeve.com/QmDeve/AndroidLiquidGlassView.svg?variant=adaptive)](https://starchart.qmdeve.com/QmDeve/AndroidLiquidGlassView)
+[![Star History](https://starchart.cc/QmDeve/AndroidLiquidGlassView.svg?variant=adaptive)](https://github.com/QmDeve/AndroidLiquidGlassView)
 
 ## 交流讨论
 <a href="https://t.me/QmDeve" target="_blank">
