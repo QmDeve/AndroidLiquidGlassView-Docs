@@ -65,11 +65,8 @@ const projects = [
 [![Star History](https://starchart.cc/QmDeve/AndroidLiquidGlassView.svg?variant=adaptive)](https://github.com/QmDeve/AndroidLiquidGlassView)
 
 ## 交流讨论
-<a href="https://t.me/QmDeve" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram%20Group-@QmDeve-blue?style=for-the-badge&logo=telegram" style="border-radius: 8px;">
-</a><br><a href="https://qm.qq.com/q/vnofi1hgFc" target="_blank">
-  <img src="https://img.shields.io/badge/QQ%20Group-1046829337-blue?style=for-the-badge&logo=qq" style="border-radius: 8px;">
-</a>
+[![QQ Groups](https://img.shields.io/badge/QQ%20Groups-2CA5E0?style=brightgreen&logo=qq&logoColor=white)](https://qm.qq.com/q/HqzL7A8hCE)
+[![XChat Groups](https://img.shields.io/badge/XChat%20Groups-202020?style=brightgreen&logo=x&logoColor=white)](https://x.com/i/chat/group_join/g2048366788006846529/LNvKUQelO9)
 
 ## 开源许可证
 

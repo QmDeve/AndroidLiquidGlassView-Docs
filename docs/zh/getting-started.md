@@ -11,24 +11,24 @@ next:
 <img src="https://github.com/QmDeve/AndroidLiquidGlassView/blob/master/image.jpg?raw=true" alt="Image" style="border-radius: 24px;" />
 
 ### 项目要求
-|  Min SDK  | Compile SDK |  Java Version  |
-|-----------|-------------|----------------|
-| `API 21+` | `API 36+`      | `Java 11+` |
+|  Min SDK  |    Java    |
+|-----------|------------|
+| `API 24+` | `Java 11+` |
 
 ## 集成
 
-### 添加依赖项 <Badge type="tip" text="v1.0.3" />
+### 添加依赖项 <Badge type="tip" text="v1.0.4" />
 在模块的 `build.gradle` 文件中添加依赖项：
 ::: code-group
 ```groovy [build.gradle]
 dependencies {
-   implementation 'com.qmdeve.liquidglass:core:1.0.3'
+   implementation 'com.qmdeve.liquidglass:core:1.0.4'
 }
 ```
 
 ```kotlin [build.gradle.kts]
 dependencies {
-   implementation("com.qmdeve.liquidglass:core:1.0.3")
+   implementation("com.qmdeve.liquidglass:core:1.0.4")
 }
 ```
 :::
