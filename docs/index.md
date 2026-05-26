@@ -46,15 +46,6 @@ const members = [
     name: 'Mrtrne'
   }
 ]
-
-const projects = [
-  {
-    title: 'QmBlurView',
-    description: 'Android UI component library that provides real-time, dynamic Gaussian blur effects. It uses native C++ code for efficient blur processing and provides a set of blur UI components to enhance your application design',
-    link: 'https://blurview.qmdeve.com',
-    tags: ['Android Lib', 'BlurView', 'Components']
-  }
-]
 </script>
 
 <VPTeamMembers size="small" :members />
@@ -62,10 +53,6 @@ const projects = [
 ## Star History
 
 [![Star History](https://starchart.cc/QmDeve/AndroidLiquidGlassView.svg?variant=adaptive)](https://github.com/QmDeve/AndroidLiquidGlassView)
-
-## Discuss
-[![Telegram Groups](https://img.shields.io/badge/Telegram%20Groups-2CA5E0?style=brightgreen&logo=telegram&logoColor=white)](https://t.me/QmDeve)
-[![XChat Groups](https://img.shields.io/badge/XChat%20Groups-202020?style=brightgreen&logo=x&logoColor=white)](https://x.com/i/chat/group_join/g2048366788006846529/LNvKUQelO9)
 
 ## License
 
@@ -90,7 +77,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-## My Other Projects
-
-<Projects :projects="projects" />
