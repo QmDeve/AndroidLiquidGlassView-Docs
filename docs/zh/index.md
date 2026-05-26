@@ -48,14 +48,6 @@ const members = [
   }
 ]
 
-const projects = [
-  {
-    title: 'QmBlurView',
-    description: 'Android Ui 组件库，提供实时动态高斯模糊效果。它使用原生 C++ 代码进行高效的模糊处理，并提供一套模糊 UI 组件，以增强您的应用设计',
-    link: 'https://blurview.qmdeve.com',
-    tags: ['Android Lib', 'BlurView', 'Components']
-  }
-]
 </script>
 
 <VPTeamMembers size="small" :members />
@@ -63,10 +55,6 @@ const projects = [
 ## Star History
 
 [![Star History](https://starchart.cc/QmDeve/AndroidLiquidGlassView.svg?variant=adaptive)](https://github.com/QmDeve/AndroidLiquidGlassView)
-
-## 交流讨论
-[![QQ Groups](https://img.shields.io/badge/QQ%20Groups-2CA5E0?style=brightgreen&logo=qq&logoColor=white)](https://qm.qq.com/q/HqzL7A8hCE)
-[![XChat Groups](https://img.shields.io/badge/XChat%20Groups-202020?style=brightgreen&logo=x&logoColor=white)](https://x.com/i/chat/group_join/g2048366788006846529/LNvKUQelO9)
 
 ## 开源许可证
 
@@ -91,8 +79,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-
-## 我的其他项目
-
-<Projects :projects="projects" />
