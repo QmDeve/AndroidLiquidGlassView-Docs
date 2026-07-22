@@ -60,7 +60,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the <a href="https://github.com/QmDeve/AndroidLiquidGlassView/blob/master/LICENSE">MIT License</a>.',
-      copyright: 'Copyright © 2025-2026 <a href="https://github.com/QmDeve">Donny Yale</a>'
+      copyright: 'Copyright © 2025-2026 <a href="https://github.com/QmDeve">Donny Yang</a>'
     },
 
     socialLinks: [
