@@ -50,10 +50,6 @@ const members = [
 
 <VPTeamMembers size="small" :members />
 
-## Star History
-
-[![Star History](https://starchart.cc/QmDeve/AndroidLiquidGlassView.svg?variant=adaptive)](https://github.com/QmDeve/AndroidLiquidGlassView)
-
 ## License
 
 ```
