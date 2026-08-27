@@ -64,8 +64,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/QmDeve/AndroidLiquidGlassView' },
-      { icon: 'telegram', link: 'https://t.me/QmDeve' }
+      { icon: 'github', link: 'https://github.com/QmDeve/AndroidLiquidGlassView' }
     ],
   },
 
@@ -98,9 +97,7 @@ export default defineConfig({
       link: '/zh',
       themeConfig: {
         socialLinks: [
-          { icon: 'github', link: 'https://github.com/QmDeve/AndroidLiquidGlassView' },
-          { icon: 'qq', link: 'https://qm.qq.com/q/rZbCOqm4VO' },
-          { icon: 'telegram', link: 'https://t.me/QmDeve' }
+          { icon: 'github', link: 'https://github.com/QmDeve/AndroidLiquidGlassView' }
        ],
         darkModeSwitchLabel: '主题',
         nav: [
