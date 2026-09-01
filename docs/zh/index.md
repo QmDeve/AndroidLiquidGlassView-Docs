@@ -8,12 +8,9 @@ hero:
     - theme: brand
       text: 快速开始
       link: /zh/getting-started
-    - theme: brand
+    - theme: alt
       text: GitHub
       link: https://github.com/QmDeve/AndroidLiquidGlassView
-    - theme: alt
-      text: 下载 Demo
-      link: https://github.com/QmDeve/AndroidLiquidGlassView/blob/master/app/release/app-release.apk?raw=true
 
 features:
   - title: 液态玻璃效果
