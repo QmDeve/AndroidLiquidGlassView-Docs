@@ -9,7 +9,7 @@ hero:
       text: Quick Start
       link: /getting-started
     - theme: alt
-      text: GitHub
+      text: View on GitHub
       link: https://github.com/QmDeve/AndroidLiquidGlassView
 
 features:
