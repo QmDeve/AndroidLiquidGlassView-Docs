@@ -1,0 +1,19 @@
+import{V as e}from"./chunks/theme.CBjCI1tR.js";import{o as a,c as t,J as i,k as o,ak as l}from"./chunks/framework.B_unCYUt.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"home","hero":{"name":"Android","text":"Liquid Glass Component Library","actions":[{"theme":"brand","text":"Quick Start","link":"/getting-started"},{"theme":"alt","text":"View on GitHub","link":"https://github.com/QmDeve/AndroidLiquidGlassView"}]},"features":[{"title":"Liquid Glass Effects","details":"Refraction, dispersion effects, elastic effects, highlight effects, blur effects and more liquid glass visual effects."},{"title":"Highly Customizable","details":"Supports adjusting corner radius, refraction height, refraction offset, dispersion parameters, blur radius, hue, hue visibility, drag and elastic effects, highlight effects etc."},{"title":"Requirements","details":"Android API 33 + (Android 13), to get the full glass effect"}]},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),p={name:"index.md"},u=Object.assign(p,{setup(r){const n=[{avatar:"https://www.github.com/QmDeve.png",name:"Donny Yang",title:"Creator",org:"QmDeve",orgLink:"https://qmdeve.com",links:[{icon:"github",link:"https://github.com/QmDeve"},{icon:"gmail",link:"mailto:donny@qmdeve.com"},{icon:"telegram",link:"https://t.me/donny_yang"},{icon:"twitter",link:"https://x.com/qmdeve"}]},{avatar:"https://www.github.com/Mrtrne.png",name:"Mrtrne"}];return(c,s)=>(a(),t("div",null,[i(o(e),{size:"small",members:n}),s[0]||(s[0]=l(`<h2 id="license" tabindex="-1">License <a class="header-anchor" href="#license" aria-label="Permalink to “License”">​</a></h2><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e;" tabindex="0" dir="ltr"><code><span class="line"><span>Copyright ©️ 2025-2026 Donny Yang</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>Permission is hereby granted, free of charge, to any person obtaining a copy</span></span>
+<span class="line"><span>of this software and associated documentation files (the &quot;Software&quot;), to deal</span></span>
+<span class="line"><span>in the Software without restriction, including without limitation the rights</span></span>
+<span class="line"><span>to use, copy, modify, merge, publish, distribute, sublicense, and/or sell</span></span>
+<span class="line"><span>copies of the Software, and to permit persons to whom the Software is</span></span>
+<span class="line"><span>furnished to do so, subject to the following conditions:</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>The above copyright notice and this permission notice shall be included in all</span></span>
+<span class="line"><span>copies or substantial portions of the Software.</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR</span></span>
+<span class="line"><span>IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,</span></span>
+<span class="line"><span>FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE</span></span>
+<span class="line"><span>AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER</span></span>
+<span class="line"><span>LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,</span></span>
+<span class="line"><span>OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE</span></span>
+<span class="line"><span>SOFTWARE.</span></span></code></pre></div>`,2))]))}});export{m as __pageData,u as default};
