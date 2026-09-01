@@ -8,12 +8,9 @@ hero:
     - theme: brand
       text: Quick Start
       link: /getting-started
-    - theme: brand
+    - theme: alt
       text: GitHub
       link: https://github.com/QmDeve/AndroidLiquidGlassView
-    - theme: alt
-      text: Download Demo
-      link: https://github.com/QmDeve/AndroidLiquidGlassView/blob/master/app/release/app-release.apk?raw=true
 
 features:
   - title: Liquid Glass Effects
