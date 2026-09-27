@@ -13,22 +13,22 @@ next:
 ### 项目要求
 |  Min SDK  |    Java    |
 |-----------|------------|
-| `API 24+` | `Java 11+` |
+| `API 24+` | `Java 21+` |
 
 ## 集成
 
-### 添加依赖项 <Badge type="tip" text="v1.0.5" />
+### 添加依赖项 <Badge type="tip" text="v1.1.0" />
 在模块的 `build.gradle` 文件中添加依赖项：
 ::: code-group
 ```groovy [build.gradle]
 dependencies {
-   implementation 'com.qmdeve.liquidglass:core:1.0.5'
+   implementation 'com.qmdeve.liquidglass:core:1.1.0'
 }
 ```
 
 ```kotlin [build.gradle.kts]
 dependencies {
-   implementation("com.qmdeve.liquidglass:core:1.0.5")
+   implementation("com.qmdeve.liquidglass:core:1.1.0")
 }
 ```
 :::
