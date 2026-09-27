@@ -13,22 +13,22 @@ next:
 ### Project Requirements
 |  Min SDK  |    Java    |
 |-----------|------------|
-| `API 24+` | `Java 11+` |
+| `API 24+` | `Java 21+` |
 
 ## Integration
 
-### Add Dependencies <Badge type="tip" text="v1.0.5" />
+### Add Dependencies <Badge type="tip" text="v1.1.0" />
 In your module's `build.gradle` file, add the dependency:
 ::: code-group
 ```groovy [build.gradle]
 dependencies {
-   implementation 'com.qmdeve.liquidglass:core:1.0.5'
+   implementation 'com.qmdeve.liquidglass:core:1.1.0'
 }
 ```
 
 ```kotlin [build.gradle.kts]
 dependencies {
-   implementation("com.qmdeve.liquidglass:core:1.0.5")
+   implementation("com.qmdeve.liquidglass:core:1.1.0")
 }
 ```
 :::
